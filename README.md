@@ -120,6 +120,22 @@ This project demonstrates:
 - Deploy using Streamlit/Web
 
 ---
+
+
+## 🤝 Contributing
+
+Pull requests are welcome!  
+For major changes, open an issue first.
+
+---
+
+## 📜 License
+
+This project is open-source and available under the MIT License.
+
+---
+
+
 ## 👨‍💻 Author
 **Hashim**
 If you liked this project, give it a ⭐ on GitHub!
