@@ -7,8 +7,6 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-ComputerVision-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-
-
 ---
 ## 🧠 About The Project
 
