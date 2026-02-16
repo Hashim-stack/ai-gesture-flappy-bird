@@ -6,7 +6,6 @@
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![OpenCV](https://img.shields.io/badge/OpenCV-ComputerVision-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
-
 ---
 ## 🧠 About The Project
 
